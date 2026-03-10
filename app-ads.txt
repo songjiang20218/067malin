@@ -135,6 +135,7 @@ aralego.com, par-47BD7BBE27294326FEE36D28AA44A88B, RESELLER
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 atasdigital.com, 506154, RESELLER
 axonix.com, 57869, RESELLER
+axonix.com, 59202, RESELLER
 beachfront.com, 7300, RESELLER
 beintoo.com, C7308, DIRECT
 betweendigital.com, 44095, RESELLER
