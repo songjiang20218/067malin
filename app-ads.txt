@@ -1,3 +1,4 @@
+google.com, pub-9104226499574771, DIRECT, f08c47fec0942fa0
 toponad.com, 7d9736f8d47787f5f3ff6bd2f8e92a40, DIRECT, 1d49fe424a1a456d
 33across.com, 001Pg000019IbWWIA0, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1368497933, RESELLER
